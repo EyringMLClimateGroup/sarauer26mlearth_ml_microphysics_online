@@ -58,9 +58,9 @@ Figures presented in the paper were generated using
 
 This project relies on the following core packages:
 
-- **[PyTorch](https://github.com/pytorch/pytorch)** — all ML models are defined and trained in PyTorch
-- **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** — used for preprocessing and evaluation utilities
-- **[FTorch](https://github.com/Cambridge-ICCS/FTorch)** — provides the Python–Fortran bridge for online coupling with ICON
+- **[PyTorch](https://github.com/pytorch/pytorch)** - all ML models are defined and trained in PyTorch
+- **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** - used for preprocessing and evaluation utilities
+- **[FTorch](https://github.com/Cambridge-ICCS/FTorch)** - provides the Python–Fortran bridge for online coupling with ICON
 
 ## License
 
