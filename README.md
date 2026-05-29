@@ -10,6 +10,8 @@ The corresponding paper is currently under review in *Machine Learning: Earth*:
 > Sarauer, Ellen, et al. "From stable online coupling to decade-long climate simulations:
 > A machine learning parameterization for cloud microphysics in ICON."
 
+[![DOI](https://zenodo.org/badge/1242257476.svg)](https://doi.org/10.5281/zenodo.20442527)
+
 ---
 
 ## Repository content
